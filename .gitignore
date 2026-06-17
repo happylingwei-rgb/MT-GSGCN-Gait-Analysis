@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyTorch models / weight files
+*.pt
+*.pth
+*.pkl
+*.h5
+*.joblib
+
+# Datasets and large data files
+datasets/
+**/datasets/
+database_joints/
+**/database_joints/
+*.mat
+*.npz
+*.npy
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+
+# Graphics/Log files that are auto-generated (optional, but keep PNG plots if you want to display them in README)
+# If you want to exclude all images, uncomment the next line:
+# *.png
+# *.jpg
+# *.jpeg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temp/Backup files
+*~
+*.bak
+*.pptx

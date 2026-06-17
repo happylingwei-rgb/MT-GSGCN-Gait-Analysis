@@ -1,0 +1,16 @@
+{
+  "num_subjects": 10,
+  "num_classes": 6,
+  "total_test_samples": 7157,
+  "macro_acc_mean_percent": 95.01006871828238,
+  "macro_acc_std_percent": 4.718062023930229,
+  "macro_acc_min_percent": 87.36111111111111,
+  "macro_acc_max_percent": 99.86111111111111,
+  "macro_f1_mean": 0.9481646794062943,
+  "micro_overall_acc_percent": 94.98393181500629,
+  "EPOCHS": 80,
+  "BATCH_SIZE": 32,
+  "LR": 0.01,
+  "WEIGHT_DECAY": 0.001,
+  "DATA_PATH": "processed_data/patho50_data_noNorm.npz"
+}

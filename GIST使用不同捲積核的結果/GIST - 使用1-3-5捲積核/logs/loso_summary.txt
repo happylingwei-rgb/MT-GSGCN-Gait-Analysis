@@ -1,0 +1,23 @@
+=== LOSO 總結 ===
+human1: Acc=100.00% | F1=1.0000
+human10: Acc=98.19% | F1=0.9819
+human2: Acc=99.44% | F1=0.9944
+human3: Acc=96.94% | F1=0.9694
+human4: Acc=99.71% | F1=0.9972
+human5: Acc=97.36% | F1=0.9735
+human6: Acc=95.69% | F1=0.9568
+human7: Acc=96.52% | F1=0.9652
+human8: Acc=85.28% | F1=0.8201
+human9: Acc=92.50% | F1=0.9213
+
+平均準確率: 96.16%
+最大準確率: 100.00%
+最小準確率: 85.28%
+標準差: 4.20%
+
+平均 F1-score: 0.9580
+Micro overall Acc: 96.14%
+
+[Hyperparams]
+EPOCHS=80, BATCH_SIZE=32, LR=0.01, WEIGHT_DECAY=0.001
+DATA_PATH=processed_data/patho50_data_noNorm.npz
