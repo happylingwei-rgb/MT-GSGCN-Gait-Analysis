@@ -118,13 +118,16 @@ gait-analysis-root/
 
 ## Citation
 
-If you find this code or our paper useful for your research, please cite our work:
+If you find this repository helpful for your research, please consider citing our paper:
 
 ```bibtex
-@article{gaitgcn2026,
-  title={Multi-Task Spatial-Temporal Graph Convolutional Networks with Attention Mechanisms for Gait Analysis},
-  author={Lien, Shih-Sheng and others},
+@article{chen2026multiscale,
+  title={A Multi-Scale Temporal Graph Convolutional Network Model for Skeleton-Based Abnormal Gait Recognition},
+  author={Chen, Young-Long and Lien, Shih-Sheng and Lin, Ling-Wei},
   journal={To be submitted},
   year={2026}
 }
 ```
+
+Or in text format:
+> Young-Long Chen, Shih-Sheng Lien, and Ling-Wei Lin. "A Multi-Scale Temporal Graph Convolutional Network Model for Skeleton-Based Abnormal Gait Recognition." (To be submitted).
